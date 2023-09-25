@@ -1,0 +1,2 @@
+importlib_resources
+llama @ git+https://github.com/facebookresearch/llama.git
